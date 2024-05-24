@@ -15,39 +15,40 @@ The Employee Management System is a comprehensive web application designed to st
 - **Angular:** The frontend of the application is developed using Angular, a powerful and dynamic front-end framework. Angular facilitates the creation of a responsive and interactive user interface, enabling seamless communication with the backend.
 
 # Home Page
+
 ![ScreenShots1](./ScreenShots/loginpage.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img1.png)
+![ScreenShots2](./ScreenShots/img1.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img2.png)
+![ScreenShots3](./ScreenShots/img2.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img4.png)
+![ScreenShots4](./ScreenShots/img4.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img5.png)
+![ScreenShots5](./ScreenShots/img5.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img6.png)
+![ScreenShots6](./ScreenShots/img6.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img7.png)
+![ScreenShots7](./ScreenShots/img7.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img8.png)
+![ScreenShots8](./ScreenShots/img8.png)
 
 <br/>
 
-![ScreenShots1](./ScreenShots/img9.png)
+![ScreenShots9](./ScreenShots/img9.png)
 
 **Key Features:**
 
