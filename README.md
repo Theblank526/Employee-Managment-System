@@ -26,9 +26,6 @@ The Employee Management System is a comprehensive web application designed to st
 
 ![ScreenShots3](./ScreenShots/img2.png)
 
-<br/>
-
-![ScreenShots4](./ScreenShots/img4.png)
 
 <br/>
 
